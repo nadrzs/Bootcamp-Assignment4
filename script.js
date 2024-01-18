@@ -3,10 +3,7 @@ const fetchData = async() => {
         const data = document.getElementById("input-data").value 
 
         const getData = await fetch(`https://covid-193.p.rapidapi.com/statistics?country=${data}`, {
-            headers: {
-                'X-RapidAPI-Key': 'fa6d231446mshaba90736705026cp1f32e5jsn29344c431257',
-                'X-RapidAPI-Host': 'covid-193.p.rapidapi.com'
-            }
+            
         })
 
         const parsing = await getData.json()
