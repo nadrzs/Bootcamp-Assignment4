@@ -1,0 +1,75 @@
+#title-text {
+    font-size: 30px;
+    color: #25a18e;
+}
+
+#input-data {
+    padding: 10px;
+    background-color: #eaeaea;
+}
+
+#btnGetData {
+    color: white;
+    padding: 10px;
+    background-color: #344e41;
+}
+
+#active-cases {
+    color: white;
+    border-radius: 10px;
+    background-color: #415a77;
+}
+
+#active-cases-icon {
+    font-size: 40px;
+}
+
+#new-cases {
+    color: white;
+    border-radius: 10px;
+    background-color: #fca311;
+}
+
+#new-cases-icon {
+    font-size: 40px;
+}
+
+#recovered-cases {
+    color: white;
+    border-radius: 10px;
+    background-color: #9e2a2b;
+}
+
+#recovered-cases-icon {
+    font-size: 40px;
+}
+
+#total-cases {
+    color: white;
+    border-radius: 10px;
+    background-color: #31572c;
+}
+
+#total-cases-icon {
+    font-size: 40px;
+}
+
+#total-deaths {
+    color: white;
+    border-radius: 10px;
+    background-color: #461220;
+}
+
+#total-deaths-icon {
+    font-size: 40px;
+}
+
+#total-tests {
+    color: white;
+    border-radius: 10px;
+    background-color: #5e6472;
+}
+
+#total-tests-icon {
+    font-size: 40px;
+}
